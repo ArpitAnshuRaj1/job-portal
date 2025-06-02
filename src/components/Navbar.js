@@ -40,7 +40,7 @@ const Navbar = () => {
       return (
         <nav className={styles.navbar}>
           <div className={styles.logo}>
-            <p>Ali Hassan</p>
+            <p>Arpit Anshu Raj</p>
           </div>
           <div className={styles.navLinks + (isMobileMenuOpen ? ` ${styles.active}` : "")}>
             <Link to="/dashboard" className={styles.navLink}>Home</Link>
@@ -59,7 +59,7 @@ const Navbar = () => {
       return (
         <nav className={styles.navbar}>
           <div className={styles.logo}>
-            <p>Ali Hassan</p>
+            <p>Arpit Anshu Raj</p>
           </div>
           <div className={styles.navLinks + (isMobileMenuOpen ? ` ${styles.active}` : "")}>
             <Link to="/dashboard" className={styles.navLink}>Home</Link>
