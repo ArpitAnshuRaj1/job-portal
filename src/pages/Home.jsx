@@ -33,8 +33,8 @@ const Home = () => {
             <p>Post job listings and find the right candidates quickly.</p>
           </div>
           <div className="feature-card">
-            <h3>Responsive Design</h3>
-            <p>Enjoy a seamless experience on any device, anywhere.</p>
+            <h3>For Freelancing</h3>
+            <p>Find suitable clients.</p>
           </div>
         </div>
       </div>
