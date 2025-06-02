@@ -23,10 +23,10 @@ const Footer = () => {
         <div className={styles.column}>
           <h3>Follow Me</h3>
           <div className={styles.socialIcons}>
-            <a href="" target="_blank" rel="noreferrer">
+            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
               <FaFacebookF />
             </a>
-            <a href="" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
               <FaInstagram />
             </a>
             <a href="https://www.linkedin.com/in/arpit-anshu-raj-014164242/" target="_blank" rel="noreferrer">
