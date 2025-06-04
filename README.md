@@ -4,7 +4,7 @@
 This is a **React.js Job Portal** where job seekers can explore available jobs, and employers can post new job openings.
 
 ## Live Demo
-[View Demo](https://ali-job-portal.netlify.app/)
+[View Demo](https://vocal-cupcake-3fc8b9.netlify.app/)
 
 ## Features
 - Job seekers can view and apply for jobs.
@@ -20,7 +20,7 @@ This is a **React.js Job Portal** where job seekers can explore available jobs, 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/daisy-ali/react-job-portal.git
+   git clone https://github.com/arpit-anshu-raj1/job-portal.git
    ```
 2. Navigate to the project directory:
    ```sh
